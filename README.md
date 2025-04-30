@@ -75,7 +75,8 @@ I also create **modern full-stack applications** using **.NET + Angular**, like 
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moujaheddziri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mdziri)  
+
 📫 Email: **moujahed.dziri@live.fr**  
 🐙 GitHub: [DziriM](https://github.com/DziriM)  
 🌍 Based in Angers, France  
