@@ -54,6 +54,8 @@ I also create **modern full-stack applications** using **.NET + Angular**, like 
 → [Live Demo](https://skinet-course-auapcvdmdubqhkdx.francecentral-01.azurewebsites.net/)  
 🔹 [**Dinner Booking**](https://github.com/DziriM/DinnerBooking) — Clean Hexagonal architecture & CQRS app for restaurant reservations  
 🔹 [**AI Image Classifier**](https://github.com/DziriM/AI-Image-Classifier) — Real-time image classification API (Python, TensorFlow)
+🔹 [**Currency Converter**]((https://github.com/DziriM/CurrencyConverter_API)) — Simple currency converter using Open Exchange Rates API (.NET Framwork 4.7.2, WPF)
+
 
 ---
 
