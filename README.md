@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Moujahed DZIRI
 
-### 🧠 Freelance Developer | .NET Web Scraping Specialist | Craft & Clean Code Enthusiast
+### 🧠 .NET & Angular Freelance | Azure-Certified | Web Scraping Expert
 
 *"Good code is understood by humans, not just machines." – Martin Fowler*
 
