@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Moujahed DZIRI
 
-### 🧠 .NET & Angular Freelance | Azure-Certified | Web Scraping Expert
+### 💡 Expert .NET & Angular Freelancer | Specialized in High-Performance Web Scraping | Azure Certified
 
 *"Good code is understood by humans, not just machines." – Martin Fowler*
 
@@ -26,22 +26,28 @@ I also build **modern full-stack applications** using **.NET + Angular**, such a
 ## 🧰 Tech Toolbox
 
 **🕷 Web Scraping (Core Expertise)**  
-`.NET 8/9, Multithreading, Proxy Rotation, Anti-bot Evasion, Regex, Fingerprinting, RabbitMQ, Redis`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+`Multithreading, Proxy Rotation, Anti-bot Evasion, Regex, Fingerprinting, RabbitMQ, Redis`
 
 **🧱 Backend**  
-`.NET Core, ASP.NET, Blazor Server, REST APIs, CQRS, DDD, Clean Architecture, EF Core, SQL Server`
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+`Blazor Server, REST APIs, CQRS, DDD, Clean Architecture, EF Core`
 
 **🎨 Frontend**  
-`Angular v18, RxJS, Angular Material, TailwindCSS`
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=rxjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+`Angular Material`
 
 **🧪 Testing & Code Quality**  
-`xUnit, TDD, Moq, FluentAssertions, Integration Testing, Application Insights`
+![xUnit](https://img.shields.io/badge/xUnit-007ACC?style=for-the-badge&logo=xunit&logoColor=white)
+`TDD, Moq, FluentAssertions, Integration Testing, Application Insights`
 
 **☁️ DevOps & Cloud**  
-`Docker, GitHub Actions, Azure Functions, App Services, API Management`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+`Azure Functions, App Services, API Management`
 
 **🧠 AI (specific project)**  
-`FastAPI, TensorFlow/Keras, Streamlit – used for a personal image classifier`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+`Streamlit – used for a personal image classifier`
 
 ---
 
@@ -57,9 +63,9 @@ I also build **modern full-stack applications** using **.NET + Angular**, such a
 
 ## 📊 GitHub Stats & Activity
 
-![Moujahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DziriM&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DziriM&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DziriM&theme=radical&hide_border=false)
+![Moujahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DziriM&show_icons=true&theme=radical&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DziriM&layout=compact&theme=radical&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=DziriM&theme=radical&hide_border=false&border_radius=10)
 
 ---
 
@@ -71,14 +77,17 @@ I also build **modern full-stack applications** using **.NET + Angular**, such a
 
 ---
 
-## 🤝 Let's Connect!
+## 🚀 Let's Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdziri)
+I'm always excited to discuss new projects, innovative ideas, or potential collaborations. Feel free to reach out!
 
-📫 Email: **moujahed.dziri@live.fr**  
-🐙 GitHub: [DziriM](https://github.com/DziriM)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdziri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moujahed.dziri@live.fr)
+
+🐙 My GitHub: [DziriM](https://github.com/DziriM)
 🌍 Based in Angers, France  
-🔎 Open to freelance missions and long-term collaborations
+
+**🎯 Actively seeking freelance missions & long-term partnerships in .NET & Angular development.**
 
 ---
 
