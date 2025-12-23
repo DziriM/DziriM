@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Moujahed DZIRI
 
-### 🧠 .NET & Angular Freelance | Azure-Certified | Web Scraping Expert
+### 🧠 Full Stack (.NET & Angular) Developer | Azure-Certified | Web Scraping Expert
 
 *"Good code is understood by humans, not just machines." – Martin Fowler*
 
@@ -12,14 +12,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with **6+ years of experience in .NET**, now working as a **full-time freelancer**.
+I'm a passionate software developer with **6+ years of experience in .NET**, now working as a **full stack developer**.
 
 My specialty? **Advanced web scraping in .NET** — building fast, stealthy, and reliable bots with industrial-grade architecture.  
-Through my project **Zibao**, I help businesses uncover hidden data treasures across the web.
 
 I also build **modern full-stack applications** using **.NET + Angular**, such as the e-commerce platform [Skinet](https://skinet-course-auapcvdmdubqhkdx.francecentral-01.azurewebsites.net/) hosted on Azure.
 
-🎯 **Currently open to freelance missions, long-term collaborations, or technical partnerships** — whether you need a high-performing bot, a rock-solid API, or a polished UI.
+🎯 **Open to long-term collaborations, or technical partnerships** — whether you need a high-performing bot, a rock-solid API, or a polished UI.
 
 ---
 
@@ -78,7 +77,7 @@ I also build **modern full-stack applications** using **.NET + Angular**, such a
 📫 Email: **moujahed.dziri@live.fr**  
 🐙 GitHub: [DziriM](https://github.com/DziriM)  
 🌍 Based in Angers, France  
-🔎 Open to freelance missions and long-term collaborations
+🔎 Open to discussions and long-term collaborations
 
 ---
 
